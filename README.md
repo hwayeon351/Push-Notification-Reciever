@@ -8,8 +8,8 @@
 </br>
 
 
-## ⚠️ 주의사항
-### Firebase 프로젝트에서 다운받은 google-services.json 파일을 추가해야합니다.
+### ⚠️ 주의사항
+###$ Firebase 프로젝트에서 다운받은 google-services.json 파일을 추가해야합니다.
 </br>
 
 
